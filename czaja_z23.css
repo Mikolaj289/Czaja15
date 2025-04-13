@@ -1,0 +1,39 @@
+p#pogrubienie_czaja {
+    font-size: 30px;
+    color: #855DD0;
+    font-weight: bold;
+}
+
+p#pochylona_czaja {
+    font-size: 35pt;
+    color: #E9C16C;
+    font-style: italic;
+}
+
+p#index_gorny_czaja {
+    font-size: 1cm;
+    color: #998F1C;
+    vertical-align: super;
+}
+
+p#index_dolny_czaja {
+    font-size: 1.5cm;
+    color: rgb(20%, 95%, 89%);
+    vertical-align: sub;
+}
+
+p#mono_czaja {
+    font-size: 40px;
+    color: #19DF6C;
+    font-family: monospace;
+}
+
+p#powiekszenie_czaja {
+    font-size: larger;
+    color: #533F9E;
+}
+
+p#pomniejszenie_czaja {
+    font-size: smaller;
+    color: rgb(72%, 64%, 23%);
+}
